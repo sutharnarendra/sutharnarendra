@@ -2,24 +2,24 @@
 
 ### Java Developer | Spring Boot | Backend Development
 
-I'm a Computer Science developer focused on building practical software applications with
-**Java, Spring Boot, REST APIs, databases, and modern application architecture**.
+I'm a Computer Science developer focused on building practical software applications
+using **Java, Spring Boot, REST APIs, databases, and modern application architecture**.
 
-I enjoy solving problems with code, learning Data Structures & Algorithms, and building
-projects across backend, Android, AI/ML, and web development.
+I enjoy solving problems through code, building real-world projects, and continuously
+strengthening my **Data Structures & Algorithms** skills.
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student and software developer
-- ☕ Focused on **Java and Spring Boot backend development**
-- 🌱 Currently strengthening **Data Structures & Algorithms**
-- 🔨 Building practical applications rather than only academic projects
-- 📱 Experience with Android development using Kotlin
-- 🤖 Experience building AI/ML and AI-powered applications
-- 🌐 Experience with React and Next.js
-- 🗄️ Interested in backend architecture, databases, APIs, and scalable applications
+- ☕ Focused on **Java & Spring Boot**
+- 🔧 Interested in **Backend Development & REST APIs**
+- 🗄️ Working with **MySQL, JPA, Hibernate & Firebase**
+- 🧠 Currently strengthening **Data Structures & Algorithms with Java**
+- 📱 Experience building Android applications with **Kotlin**
+- 🤖 Experience with **AI/ML and AI-powered applications**
+- 🌐 Experience with **React & Next.js**
+- 🧪 Learning and applying **unit testing and clean development practices**
 
 ---
 
@@ -27,31 +27,38 @@ projects across backend, Android, AI/ML, and web development.
 
 ### Languages
 
-`Java` `Python` `JavaScript` `Kotlin` `SQL` `HTML` `CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Backend
 
-`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs`
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 
-### Databases & Storage
+### Databases
 
-`MySQL` `Firebase Firestore` `Room`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 
-`React` `Next.js` `Tailwind CSS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Android
+### Tools & Testing
 
-`Android` `Kotlin` `Firebase`
-
-### Testing & Tools
-
-`JUnit` `Mockito` `Postman` `Git` `GitHub` `Docker`
-
-### AI / Data
-
-`Python` `Pandas` `NumPy` `Streamlit` `Machine Learning`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 
 ---
 
@@ -64,9 +71,9 @@ projects across backend, Android, AI/ML, and web development.
 A dual-platform e-commerce system consisting of a web application and a dedicated
 Android application for administrative operations.
 
-**Status:** Active Development
+**Status:** 🚧 Active Development
 
-> Source code is private due to project/client confidentiality.
+> 🔒 Source code is private due to project/client confidentiality.
 
 ---
 
@@ -74,8 +81,8 @@ Android application for administrative operations.
 
 **Kotlin · Android · Firebase · Firestore · Room · Supabase**
 
-An Android-based workforce management application designed for construction
-workforce coordination.
+An Android-based workforce management application designed for workforce
+coordination and management.
 
 Key areas include:
 
@@ -88,7 +95,7 @@ Key areas include:
 - Offline data handling
 - Role-based functionality
 
-**Status:** Private Repository
+**Status:** 🔒 Private Repository
 
 ---
 
@@ -107,43 +114,44 @@ performance evaluation, and career preparation.
 
 **Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
 
-A backend application demonstrating REST API development, product management,
-database persistence, and Spring-based application architecture.
+A backend application demonstrating REST API development, database persistence,
+CRUD operations, and Spring-based application architecture.
 
 🔗 [View Repository](https://github.com/sutharnarendra/ProductManagement)
 
 ---
 
-### 📱 Lucky Mobile — Local Business Website
+### 📱 Lucky Mobile
 
 **Next.js · React · JavaScript · Tailwind CSS**
 
-A responsive local-business website designed for a mobile shop, with a focus on
-UI/UX, service presentation, local SEO, and conversion-focused contact actions.
+A responsive local-business website focused on UI/UX, service presentation,
+local business information, and conversion-focused user experience.
 
 🔗 [Live Website](https://luckymobile-ashwini.nmfcollegenotes.workers.dev/)
 
 ---
 
-## 📚 Data Structures & Algorithms
+## 🧠 Data Structures & Algorithms
 
-Currently building my DSA foundation in **Java** with an emphasis on understanding
-patterns and problem-solving rather than memorizing solutions.
+Currently strengthening my problem-solving skills with **Java**.
 
-Topics include:
+### Topics I'm Working Through
 
-- Arrays
-- Strings
+- Arrays & Strings
 - Two Pointers
 - Sliding Window
 - Binary Search
 - Linked Lists
 - Stack & Queue
-- Recursion
+- Recursion & Backtracking
 - Trees
 - Graphs
 - Greedy Algorithms
 - Dynamic Programming
+
+My focus is on understanding **patterns, problem-solving approaches, and complexity**
+rather than memorizing solutions.
 
 ---
 
@@ -156,10 +164,10 @@ Spring Boot
   ↓
 REST APIs
   ↓
-Database Design
+JPA / Hibernate
+  ↓
+MySQL & Database Design
   ↓
 Testing
-  ↓
-System & Application Architecture
   ↓
 Data Structures & Algorithms
